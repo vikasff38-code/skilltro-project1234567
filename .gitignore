@@ -1,0 +1,11 @@
+target/
+node_modules/
+dist/
+data/*.mv.db
+data/*.trace.db
+data/*.lock.db
+data/*.temp.db
+!data/.gitkeep
+.env
+.env.*
+!.env.example
